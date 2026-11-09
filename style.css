@@ -1,0 +1,17 @@
+.hoverable{
+    color:green;
+}
+li:nth-child(2){
+    color:purple;
+
+}
+h2{
+    color:purple;
+    font-family:verdana;
+}
+ul{
+    background-color:yellow
+}
+div.green.box{
+background-color:lightgreen;
+}
